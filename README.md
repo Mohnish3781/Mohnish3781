@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👑 Hi, I'm Mohnish</h1>
-  <h3>Electrical Engineer | Embedded Systems & Digital Electronics Specialist</h3>
+  <h3>Electrical Engineer | Active Learner of Electronics and Communication</h3>
   
   <!-- Animated typing SVG with a Gold accent color (D4AF37) -->
   <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=22&duration=3000&pause=1000&color=D4AF37&center=true&vcenter=true&width=600&lines=Innovating+with+Electrons+%26+Systems;Specialized+in+Verilog+%26+RISC-V;Building+the+Future+of+Hardware" alt="Typing effect" />
