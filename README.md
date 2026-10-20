@@ -42,12 +42,10 @@
 
 ---
 
----
-
 ### 🛰️ GitHub Telemetry Dashboard
 <div align="center">
-  <!-- Dynamic Activity Graph spanning full width -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohnish3781&bg_color=1A1A1A&color=D4AF37&line=D4AF37&point=FFFFFF&area=true&hide_border=true" width="98%" alt="GitHub Activity Graph" />
+  <!-- Reliable GitHub Contribution Chart in Gold -->
+  <img src="https://ghchart.rshah.org/D4AF37/Mohnish3781" width="98%" alt="GitHub Activity Graph" />
   
   <br/><br/>
   
