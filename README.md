@@ -30,11 +30,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Mohnish3781&show_icons=true&theme=tokyonight&hide_border=true&ring_color=D4AF37" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohnish3781&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </div>
-
----
-
-### 🐉 Contribution Activity
-<div align="center">
-  <!-- Ensure your GitHub Action outputs the file exactly to this path to fix the broken link -->
-  <img src="https://raw.githubusercontent.com/Mohnish3781/Mohnish3781/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</div>
