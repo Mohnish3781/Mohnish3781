@@ -42,9 +42,21 @@
 
 ---
 
-### 📊 GitHub Telemetry
+---
+
+### 🛰️ GitHub Telemetry Dashboard
 <div align="center">
-  <!-- Stats cards using the sleek 'tokyonight' theme with borders removed for a cleaner look -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohnish3781&show_icons=true&theme=tokyonight&hide_border=true&ring_color=D4AF37" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohnish3781&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <!-- Dynamic Activity Graph spanning full width -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohnish3781&bg_color=1A1A1A&color=D4AF37&line=D4AF37&point=FFFFFF&area=true&hide_border=true" width="98%" alt="GitHub Activity Graph" />
+  
+  <br/><br/>
+  
+  <!-- Stats and Top Languages styled specifically with your Gold (D4AF37) and Dark (1A1A1A) theme -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohnish3781&show_icons=true&bg_color=1A1A1A&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_radius=10&border_color=D4AF37&hide_border=false&ring_color=D4AF37" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohnish3781&layout=compact&bg_color=1A1A1A&title_color=D4AF37&text_color=FFFFFF&border_radius=10&border_color=D4AF37&hide_border=false" width="48%" alt="Top Languages" />
+  
+  <br/><br/>
+  
+  <!-- GitHub Streak Stats to show consistency -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohnish3781&background=1A1A1A&ring=D4AF37&fire=D4AF37&currStreakNum=FFFFFF&currStreakLabel=D4AF37&sideNums=FFFFFF&sideLabels=D4AF37&dates=FFFFFF&hide_border=false&border=D4AF37&stroke=D4AF37&border_radius=10" width="98%" alt="GitHub Streak" />
 </div>
