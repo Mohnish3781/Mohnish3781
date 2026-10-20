@@ -1,32 +1,40 @@
-<h1 align="center">Hi 👋, I'm Mohnish</h1>
-<h3 align="center">Electrical Engineer | Embedded Systems & Digital Electronics Specialist</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&lines=Bridging+Hardware+Design+%26+Software+Systems;Specialized+in+Verilog+%26+RISC-V+Architectures;Building+scalable+hardware-software+solutions" />
-</p>
-
----
-
-### 🔬 Core Specializations & Tech Stack
-
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| **Hardware & Logic Design** | `Verilog` `Digital Electronics` `RISC-V` `Circuit Design` |
-| **Programming Languages** | `C` `C++` `Python` `JavaScript` `TypeScript` |
-| **Software & Frameworks** | `React` `Node.js` `Git` `Docker` `Linux Shell` |
-
----
-
-### 📊 GitHub Telemetry
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohnish3781&show_icons=true&theme=synthwave&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohnish3781&layout=compact&theme=synthwave&hide_border=true" width="48%" />
+  <h1>👑 Hi, I'm Mohnish</h1>
+  <h3>Electrical Engineer | Embedded Systems & Digital Electronics Specialist</h3>
+  
+  <!-- Animated typing SVG with a Gold accent color (D4AF37) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=22&duration=3000&pause=1000&color=D4AF37&center=true&vcenter=true&width=600&lines=Innovating+with+Electrons+%26+Systems;Specialized+in+Verilog+%26+RISC-V;Building+the+Future+of+Hardware" alt="Typing effect" />
 </div>
 
 ---
 
-### 🎮 Contribution Activity
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mohnish3781/Mohnish3781/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
-</p>
+### ⚡ The Tech Arsenal
+<div align="center">
+  <!-- Custom Shields.io badges with a sleek dark background and gold logos -->
+  <img src="https://img.shields.io/badge/Verilog-1A1A1A?style=for-the-badge&logo=siemens&logoColor=D4AF37" alt="Verilog" />
+  <img src="https://img.shields.io/badge/RISC--V-1A1A1A?style=for-the-badge&logo=riscv&logoColor=D4AF37" alt="RISC-V" />
+  <img src="https://img.shields.io/badge/Python-1A1A1A?style=for-the-badge&logo=python&logoColor=D4AF37" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-1A1A1A?style=for-the-badge&logo=c%2B%2B&logoColor=D4AF37" alt="C++" />
+  <br/>
+  <img src="https://img.shields.io/badge/React-1A1A1A?style=for-the-badge&logo=react&logoColor=D4AF37" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-1A1A1A?style=for-the-badge&logo=nodedotjs&logoColor=D4AF37" alt="Node" />
+  <img src="https://img.shields.io/badge/Docker-1A1A1A?style=for-the-badge&logo=docker&logoColor=D4AF37" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-1A1A1A?style=for-the-badge&logo=linux&logoColor=D4AF37" alt="Linux" />
+</div>
+
+---
+
+### 📊 GitHub Telemetry
+<div align="center">
+  <!-- Stats cards using the sleek 'tokyonight' theme with borders removed for a cleaner look -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohnish3781&show_icons=true&theme=tokyonight&hide_border=true&ring_color=D4AF37" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohnish3781&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+</div>
+
+---
+
+### 🐉 Contribution Activity
+<div align="center">
+  <!-- Ensure your GitHub Action outputs the file exactly to this path to fix the broken link -->
+  <img src="https://raw.githubusercontent.com/Mohnish3781/Mohnish3781/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</div>
